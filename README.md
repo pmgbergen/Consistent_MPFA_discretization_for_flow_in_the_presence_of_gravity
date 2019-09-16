@@ -1,5 +1,8 @@
 # Consistent_MPFA_discretization_for_flow_in_the_presence_of_gravity
 
+<a href="https://doi.org/10.5281/zenodo.3413545"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3413545.svg" alt="DOI"></a>
+
+
 This repository contains runscripts for the paper
 
 "Consistent MPFA discretization for flow in the presence of gravity" by Michele Starnoni, Inga Berre, Eirik Keilegavlen, Jan Martin Nordbotten.
