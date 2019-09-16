@@ -7,7 +7,7 @@ This repository contains runscripts for the paper
 
 "Consistent MPFA discretization for flow in the presence of gravity" by Michele Starnoni, Inga Berre, Eirik Keilegavlen, Jan Martin Nordbotten.
 
-To run the examples contained in this repository a working version of PorePy v 1.1.0 (which can be downloaded from https://zenodo.org/record/3404634#.XX87YHUzbmF) must be installed on the computer. 
+To run the examples contained in this repository a working version of PorePy v 1.1.0 (which can be downloaded from https://github.com/pmgbergen/porepy/tree/1.1.0) must be installed on the computer. 
 
 The PorePy install requires installations of further packages, see Install instructions in the PorePy repository.
 
