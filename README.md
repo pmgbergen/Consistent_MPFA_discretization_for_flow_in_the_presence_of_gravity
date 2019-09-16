@@ -1,6 +1,4 @@
 # Consistent_MPFA_discretization_for_flow_in_the_presence_of_gravity
-https://zenodo.org/badge/207763828.svg
-
 
 This repository contains runscripts for the paper
 
